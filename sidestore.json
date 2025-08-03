@@ -7,7 +7,8 @@
       "developerName": "Lee Aoshuang",
       "version": "1.5.5",
       "downloadURL": "https://github.com/LeeAoshuang/ManicEmu/releases/download/v1.5.5/ManicEmu-v1.5.5.ipa",
-      "iconURL": "https://raw.githubusercontent.com/LeeAoshuang/ManicEmu/main/icon.png"
+      "iconURL": "https://raw.githubusercontent.com/LeeAoshuang/ManicEmu/main/icon.png",
+      "localizedDescription": "A modern emulator for multiple retro systems."
     },
     {
       "name": "MeloNX",
@@ -15,7 +16,8 @@
       "developerName": "Stossy11 & MeloNX Team",
       "version": "2.0.1",
       "downloadURL": "https://git.743378673.xyz/MeloNX/MeloNX/releases/download/2.0.1/MeloNX.ipa",
-      "iconURL": "https://melonx.org/favicon.ico"
+      "iconURL": "https://melonx.org/favicon.ico",
+      "localizedDescription": "Nintendo Switch emulator for iOS."
     }
   ]
 }
